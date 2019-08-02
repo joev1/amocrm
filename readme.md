@@ -2,6 +2,8 @@
 
 ## [Guzzle](http://docs.guzzlephp.org/en/stable/index.html)
 
+with [monolog](https://packagist.org/packages/monolog/monolog)
+
 composer require guzzlehttp/guzzle
 
 composer require monolog/monolog
